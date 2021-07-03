@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Your I CAN is more important than your IQ"-Elon Musk
 Use the left arrow to go back!
